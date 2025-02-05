@@ -90,7 +90,7 @@ npm start
 
 ---
 
-🛠 Step-by-Step Guide
+## 🛠 Step-by-Step Guide
 
 📌 1. Backend Setup
 
