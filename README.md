@@ -243,15 +243,11 @@ To deploy, follow these steps:
 ```bash
 1. Push your code to GitHub
 
-
 2. Connect your repo to Vercel (for frontend)
-
 
 3. Connect your server to Render or Railway
 
-
 4. Update .env with production variables
-
 
 5. Deploy 🚀
 ```
