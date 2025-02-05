@@ -35,7 +35,7 @@ Free Deployment with best practices
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/mern-chat-app.git
+git clone https://github.com/UmeshSamartapu/mern-chat-app.git
 cd mern-chat-app
 
 2️⃣ Install Dependencies
