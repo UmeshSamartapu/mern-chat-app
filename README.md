@@ -92,7 +92,7 @@ npm start
 
 ## 🛠 Step-by-Step Guide
 
-📌 1. Backend Setup
+# 📌 1. Backend Setup
 
 1. Initialize a Node.js project:
 
@@ -117,7 +117,7 @@ npm install express mongoose dotenv cors jsonwebtoken bcryptjs socket.io
 
 
 
-📌 2. Authentication (JWT)
+# 📌 2. Authentication (JWT)
 
 1. Create User Model (models/User.js).
 
@@ -131,7 +131,6 @@ Login Endpoint
 Logout Endpoint
 
 
-
 3. Use bcrypt.js to hash passwords.
 
 
@@ -139,7 +138,7 @@ Logout Endpoint
 
 
 
-📌 3. Real-Time Chat (Socket.io)
+# 📌 3. Real-Time Chat (Socket.io)
 
 1. Create Message Model (models/Message.js).
 
@@ -161,7 +160,7 @@ Logout Endpoint
 
 
 
-📌 4. Frontend Setup
+# 📌 4. Frontend Setup
 
 1. Initialize a React project:
 
@@ -183,7 +182,7 @@ npm install axios react-router-dom tailwindcss daisyui zustand socket.io-client
 
 
 
-📌 5. UI & User Authentication
+# 📌 5. UI & User Authentication
 
   1. Create Sign Up & Login pages.
 
@@ -198,7 +197,7 @@ npm install axios react-router-dom tailwindcss daisyui zustand socket.io-client
 
 
 
-📌 6. Implement Real-Time Messaging
+# 📌 6. Implement Real-Time Messaging
 
   1. Establish a WebSocket connection with Socket.io.
 
@@ -210,7 +209,7 @@ npm install axios react-router-dom tailwindcss daisyui zustand socket.io-client
 
 
 
-📌 7. Deployment
+# 📌 7. Deployment
 
   1. Deploy frontend on Vercel / Netlify.
 
@@ -225,7 +224,7 @@ npm install axios react-router-dom tailwindcss daisyui zustand socket.io-client
 
 ---
 
-🚀 Deployment
+## 🚀 Deployment
 
 This app is deployed and accessible at: https://mern-chat-app-gbzw.onrender.com
 
@@ -256,14 +255,14 @@ To deploy, follow these steps:
 
 ---
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
 
 ---
 
-🎯 Contributing
+## 🎯 Contributing
 
 Pull requests are welcome! If you'd like to contribute:
 
@@ -286,7 +285,7 @@ Pull requests are welcome! If you'd like to contribute:
 
 ---
 
-💡 Future Enhancements
+## 💡 Future Enhancements
 
 ✔️ Dark Mode UI
 
@@ -301,7 +300,7 @@ Pull requests are welcome! If you'd like to contribute:
 
 ---
 
-🛠️ Author
+## 🛠️ Author
 
 👤 Samartapu Umesh
 📧 Email: umeshsamartapu@gmail.com
