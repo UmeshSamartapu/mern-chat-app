@@ -1,41 +1,51 @@
-MERN Stack Chat App 🚀
+Here is the complete README.md file content in markdown format:
+
+# MERN Stack Chat App 🚀
 
 A real-time chat application built using the MERN stack with Socket.io, JWT authentication, and modern UI styling with TailwindCSS and Daisy UI.
 
-🌟 Features
+![App Screenshot](https://via.placeholder.com/1080x1920.png)
 
-MERN Stack: MongoDB, Express, React, Node.js
+## 🌟 Features
 
-Real-time Messaging: Powered by Socket.io
-
-JWT Authentication & Authorization
-
-Online User Status with React Context & Socket.io
-
-Global State Management using Zustand
-
-Secure API Routes with JWT and middleware protection
-
-Error Handling on both server and client
-
-Modern UI Design with TailwindCSS & Daisy UI
-
-Free Deployment with best practices
-
-
+- **MERN Stack**: MongoDB, Express, React, Node.js
+- **Real-time Messaging**: Powered by Socket.io
+- **JWT Authentication & Authorization**
+- **Online User Status**: Managed with React Context & Socket.io
+- **Global State Management**: Utilizing Zustand
+- **Secure API Routes**: Protected with JWT and middleware
+- **Error Handling**: Implemented on both server and client
+- **Modern UI Design**: Styled with TailwindCSS & Daisy UI
+- **Free Deployment**: Deployed with best practices
 
 ---
 
-📌 Tech Stack
+## 📌 Tech Stack
 
+- **Frontend**:
+  - React.js
+  - TailwindCSS
+  - Daisy UI
+  - Zustand
+  - Socket.io Client
+
+- **Backend**:
+  - Node.js
+  - Express.js
+  - MongoDB
+  - Mongoose
+  - Socket.io
+  - JWT
+  - Bcrypt.js
 
 ---
 
-📂 Project Setup
+## 📂 Project Setup
 
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 
-git clone https://github.com/UmeshSamartapu/mern-chat-app.git
+```bash
+git clone https://github.com/your-username/mern-chat-app.git
 cd mern-chat-app
 
 2️⃣ Install Dependencies
@@ -114,7 +124,7 @@ Logout Endpoint
 
 
 
-3. Use bcryptjs to hash passwords.
+3. Use bcrypt.js to hash passwords.
 
 
 4. Implement JWT authentication for secure access.
@@ -207,7 +217,9 @@ npm install axios react-router-dom tailwindcss daisyui zustand socket.io-client
 
 🚀 Deployment
 
-This app can be deployed for free using:
+This app is deployed and accessible at: https://mern-chat-app-gbzw.onrender.com
+
+You can deploy your own instance for free using:
 
 Frontend: Vercel / Netlify
 
@@ -280,12 +292,12 @@ Pull requests are welcome! If you'd like to contribute:
 
 🛠️ Author
 
-👤 UmeshSamartapu
+👤 Samartapu Umesh
 📧 Email: umeshsamartapu@gmail.com
 🔗 GitHub: UmeshSamartapu
 
 
 ---
 
-This MERN Chat App is built with ❤️ to help developers learn real-time communication using modern web technologies. If you find this project useful, don't forget to star ⭐ the repo! 🚀
-
+This MERN Chat App is built with ❤️ to help developers learn real-time communication using modern web technologies.
+If you find this project useful, don't forget to star ⭐ the repo! 🚀
