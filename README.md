@@ -280,9 +280,9 @@ Pull requests are welcome! If you'd like to contribute:
 
 🛠️ Author
 
-👤 Your Name
-📧 Email: your.email@example.com
-🔗 GitHub: your-username
+👤 UmeshSamartapu
+📧 Email: umeshsamartapu@gmail.com
+🔗 GitHub: UmeshSamartapu
 
 
 ---
