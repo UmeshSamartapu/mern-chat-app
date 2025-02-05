@@ -2,7 +2,7 @@
 
 A real-time chat application built using the MERN stack with Socket.io, JWT authentication, and modern UI styling with TailwindCSS and Daisy UI.
 
-![App Screenshot](https://via.placeholder.com/1080x1920.png)
+![App Screenshot](frontend/public/App%20Screenshot.jpg)
 
 ## 🌟 Features
 
