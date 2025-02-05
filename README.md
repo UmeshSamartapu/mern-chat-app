@@ -50,35 +50,43 @@ cd mern-chat-app
 
 Server
 
+```bash
 cd server
 npm install
+````
 
 Client
 
+```bash
 cd client
 npm install
+```
 
 3️⃣ Configure Environment Variables
 
 Create a .env file in the server folder and add:
 
+```bash
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 SOCKET_PORT=your_socket_port
+```
 
 4️⃣ Run the Application
 
 Start the Backend Server
 
+```bash
 cd server
 npm start
-
+```
 Start the Frontend
 
+```bash
 cd client
 npm start
-
+```
 
 ---
 
@@ -88,9 +96,10 @@ npm start
 
 1. Initialize a Node.js project:
 
+```bash
 mkdir server && cd server
 npm init -y
-
+```
 
 2. Install dependencies:
 
@@ -155,14 +164,16 @@ Get Conversations Endpoint
 
 1. Initialize a React project:
 
+```bash
 npx create-react-app client
 cd client
-
+```
 
 2. Install dependencies:
 
+```bash
 npm install axios react-router-dom tailwindcss daisyui zustand socket.io-client
-
+```
 
 3. Configure TailwindCSS & Daisy UI.
 
