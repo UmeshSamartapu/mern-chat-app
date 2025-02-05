@@ -46,7 +46,7 @@ A real-time chat application built using the MERN stack with Socket.io, JWT auth
 git clone https://github.com/your-username/mern-chat-app.git
 cd mern-chat-app
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 
 Server
 
@@ -62,7 +62,7 @@ cd client
 npm install
 ```
 
-3️⃣ Configure Environment Variables
+### 3️⃣ Configure Environment Variables
 
 Create a .env file in the server folder and add:
 
@@ -73,7 +73,7 @@ JWT_SECRET=your_secret_key
 SOCKET_PORT=your_socket_port
 ```
 
-4️⃣ Run the Application
+### 4️⃣ Run the Application
 
 Start the Backend Server
 
@@ -92,7 +92,7 @@ npm start
 
 ## 🛠 Step-by-Step Guide
 
-# 📌 1. Backend Setup
+### 📌 1. Backend Setup
 
 1. Initialize a Node.js project:
 
@@ -117,7 +117,7 @@ npm install express mongoose dotenv cors jsonwebtoken bcryptjs socket.io
 
 
 
-# 📌 2. Authentication (JWT)
+### 📌 2. Authentication (JWT)
 
 1. Create User Model (models/User.js).
 
@@ -138,7 +138,7 @@ Logout Endpoint
 
 
 
-# 📌 3. Real-Time Chat (Socket.io)
+### 📌 3. Real-Time Chat (Socket.io)
 
 1. Create Message Model (models/Message.js).
 
@@ -160,7 +160,7 @@ Logout Endpoint
 
 
 
-# 📌 4. Frontend Setup
+### 📌 4. Frontend Setup
 
 1. Initialize a React project:
 
@@ -182,7 +182,7 @@ npm install axios react-router-dom tailwindcss daisyui zustand socket.io-client
 
 
 
-# 📌 5. UI & User Authentication
+### 📌 5. UI & User Authentication
 
   1. Create Sign Up & Login pages.
 
@@ -197,7 +197,7 @@ npm install axios react-router-dom tailwindcss daisyui zustand socket.io-client
 
 
 
-# 📌 6. Implement Real-Time Messaging
+### 📌 6. Implement Real-Time Messaging
 
   1. Establish a WebSocket connection with Socket.io.
 
@@ -209,7 +209,7 @@ npm install axios react-router-dom tailwindcss daisyui zustand socket.io-client
 
 
 
-# 📌 7. Deployment
+### 📌 7. Deployment
 
   1. Deploy frontend on Vercel / Netlify.
 
