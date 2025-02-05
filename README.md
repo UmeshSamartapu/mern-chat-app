@@ -280,9 +280,13 @@ Pull requests are welcome! If you'd like to contribute:
 💡 Future Enhancements
 
 ✔️ Dark Mode UI
+
 ✔️ Message Reactions
+
 ✔️ Typing Indicator
+
 ✔️ Group Chats
+
 ✔️ File Sharing
 
 
