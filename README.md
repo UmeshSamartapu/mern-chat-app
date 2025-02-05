@@ -103,8 +103,9 @@ npm init -y
 
 2. Install dependencies:
 
+```bash
 npm install express mongoose dotenv cors jsonwebtoken bcryptjs socket.io
-
+```
 
 3. Set up an Express server (server/index.js).
 
@@ -148,11 +149,11 @@ Logout Endpoint
 
 3. Set up API routes (routes/chat.js):
 
-Send Message Endpoint
+- Send Message Endpoint
 
-Get Messages Endpoint
+- Messages Endpoint
 
-Get Conversations Endpoint
+- Get Conversations Endpoint
 
 
 
@@ -184,40 +185,40 @@ npm install axios react-router-dom tailwindcss daisyui zustand socket.io-client
 
 📌 5. UI & User Authentication
 
-1. Create Sign Up & Login pages.
+  1. Create Sign Up & Login pages.
 
 
-2. Store JWT tokens securely in local storage.
+  2. Store JWT tokens securely in local storage.
 
 
-3. Implement logout functionality.
+  3. Implement logout functionality.
 
 
-4. Fetch & display user conversations in the sidebar.
+  4. Fetch & display user conversations in the sidebar.
 
 
 
 📌 6. Implement Real-Time Messaging
 
-1. Establish a WebSocket connection with Socket.io.
+  1. Establish a WebSocket connection with Socket.io.
 
 
-2. Listen for incoming messages & update UI dynamically.
+  2. Listen for incoming messages & update UI dynamically.
 
 
-3. Show online status of users.
+  3. Show online status of users.
 
 
 
 📌 7. Deployment
 
-1. Deploy frontend on Vercel / Netlify.
+  1. Deploy frontend on Vercel / Netlify.
 
 
-2. Deploy backend on Render / Railway.
+  2. Deploy backend on Render / Railway.
 
 
-3. Use MongoDB Atlas for database hosting.
+  3. Use MongoDB Atlas for database hosting.
 
 
 
@@ -239,6 +240,7 @@ Database: MongoDB Atlas
 
 To deploy, follow these steps:
 
+```bash
 1. Push your code to GitHub
 
 
@@ -252,7 +254,7 @@ To deploy, follow these steps:
 
 
 5. Deploy 🚀
-
+```
 
 
 
