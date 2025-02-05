@@ -1,5 +1,3 @@
-Here is the complete README.md file content in markdown format:
-
 # MERN Stack Chat App 🚀
 
 A real-time chat application built using the MERN stack with Socket.io, JWT authentication, and modern UI styling with TailwindCSS and Daisy UI.
@@ -44,7 +42,7 @@ A real-time chat application built using the MERN stack with Socket.io, JWT auth
 
 ### 1️⃣ Clone the Repository
 
-```bash
+
 git clone https://github.com/your-username/mern-chat-app.git
 cd mern-chat-app
 
